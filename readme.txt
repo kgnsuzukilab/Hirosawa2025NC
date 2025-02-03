@@ -8,6 +8,6 @@ gen_palm_zeta.m is a computation engine for generating PALM movies called from g
 wintld_gamma.m reads the trajectory data output by WinATR for single-particle tracking and analyzes the positional relationship with the structure represented in the PALM video image.
 
 
-2024 Y. Yokota, Faculty of Engineering, Gifu University. All rights reserved.
+Copyright 2024 Y. Yokota, Faculty of Engineering, Gifu University. All rights reserved.
 
 This program is the property of Y. Yokota, Faculty of Engineering, Gifu University. Unauthorized modification, reproduction, or distribution of this program, or any portion of it, is strictly prohibited.
